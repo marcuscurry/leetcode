@@ -1,5 +1,9 @@
 """
-https://leetcode.com/problems/rising-temperature/description/
+Author: Marcus Curry
+Date: 07/19/2024
+GitHub: https://github.com/marcuscurry/leetcode/tree/main
+
+Leetcode Question: https://leetcode.com/problems/rising-temperature/description/
 """
 
 import pandas as pd

@@ -30,3 +30,8 @@ if __name__ == '__main__':
     t2 = pd.DataFrame(data2)
     print(nth_highest_salary(t1, 1))
     print(nth_highest_salary(t2, 2))
+
+"""
+Thoughts:
+- What to do with N < 0?
+"""

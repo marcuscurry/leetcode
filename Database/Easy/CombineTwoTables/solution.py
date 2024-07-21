@@ -1,5 +1,9 @@
 """
-https://leetcode.com/problems/combine-two-tables/description/
+Author: Marcus Curry
+Date: 07/20/2024
+GitHub: https://github.com/marcuscurry/leetcode/tree/main
+
+Leetcode Question: https://leetcode.com/problems/combine-two-tables/description/
 """
 
 import pandas as pd
